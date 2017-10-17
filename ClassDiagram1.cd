@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shop" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAgAAAAAgAEAAAAAABAAGCAACAAAAAAJAAIAAA=</HashCode>
+      <FileName>Shop.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group" Collapsed="true">
+    <Position X="7.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAgAAAAAAACAAAAAAAQAAAEAAAAAAAAQAAABAA=</HashCode>
+      <FileName>Group.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAAAAAAABAAAAAAAAAAEAABAAAAEAAAAAAA=</HashCode>
+      <FileName>Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAEAAAAAIAIAAJgQAAAAAEAIBAAAAEAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POffer" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEAAAAAAAAUAAAAAIAAAAEAAAAAAAAAAQAAA=</HashCode>
+      <FileName>POffer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalCustomer" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAABAAEAAAAAQABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalCustomer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VIPCustomer" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAABAIAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>VIPCustomer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CompanyCustomer" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAJAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>CompanyCustomer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
